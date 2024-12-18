@@ -1,18 +1,18 @@
 # EDA_Patricia_Diez
-# 📊 Análisis Exploratorio de Datos (EDA): Teletrabajo y Salud Mental  
+# Análisis Exploratorio de Datos (EDA): Teletrabajo y Salud Mental  
 
-## 📋 **Descripción del proyecto**  
+## **Descripción del proyecto**  
 Este proyecto tiene como objetivo analizar si el **teletrabajo** afecta la **salud mental** de los empleados, comparándolo con otros modelos laborales como el trabajo presencial e híbrido. Utilizando datos relacionados con el estrés, la calidad del sueño, la productividad y otros factores, hemos realizado un análisis exploratorio para identificar patrones y relaciones relevantes.  
 
 ---
 
-## 🔍 **Objetivo principal**  
+## **Objetivo principal**  
 Responder a la pregunta:  
-> *¿El lugar donde trabajamos (remoto, presencial o híbrido) afecta a la salud mental de los empleados?*  
+> ¿El lugar donde trabajamos (remoto, presencial o híbrido) afecta a la salud mental de los empleados?
 
 ---
 
-## 🗂️ **Contenido del análisis**  
+## **Contenido del análisis**  
 
 1. **Introducción**  
    - Contextualización del problema.  
@@ -38,16 +38,9 @@ Responder a la pregunta:
 
 ---
 
-## 📊 **Tecnologías y herramientas utilizadas**  
+## **Herramientas utilizadas**  
 - **Python**: Para el análisis de datos.  
    - **Bibliotecas**: Pandas, Matplotlib, Seaborn, Numpy.  
 - **Jupyter Notebook**: Entorno de trabajo para ejecutar el análisis.  
 - **Presentación**: Herramientas de visualización y comunicación (Canva).  
 
----
-## 🚀 **Cómo ejecutar el proyecto**  
-
-1. **Requisitos previos**  
-   Asegúrate de tener instalados los siguientes paquetes de Python:  
-   ```bash
-   pip install pandas matplotlib seaborn numpy
