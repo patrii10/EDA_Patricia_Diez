@@ -38,7 +38,7 @@ Responder a la pregunta:
 
 ---
 
-## **Herramientas utilizadas**  
+ **Herramientas utilizadas**  
 - **Python**: Para el análisis de datos.  
    - **Bibliotecas**: Pandas, Matplotlib, Seaborn, Numpy.  
 - **Jupyter Notebook**: Entorno de trabajo para ejecutar el análisis.  
